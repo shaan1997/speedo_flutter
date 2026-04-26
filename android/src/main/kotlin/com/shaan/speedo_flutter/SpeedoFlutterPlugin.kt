@@ -1,4 +1,4 @@
-package com.example.speedo_flutter
+package com.shaan.speedo_flutter
 
 import android.net.TrafficStats
 import android.os.Handler

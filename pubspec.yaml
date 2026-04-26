@@ -22,7 +22,7 @@ flutter:
   plugin:
     platforms:
       android:
-        package: com.example.speedo_flutter
+        package: com.shaan.speedo_flutter
         pluginClass: SpeedoFlutterPlugin
       ios:
         pluginClass: SpeedoFlutterPlugin

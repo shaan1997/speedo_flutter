@@ -1,4 +1,4 @@
-group = "com.example.speedo_flutter"
+group = "com.shaan.speedo_flutter"
 version = "1.0-SNAPSHOT"
 
 buildscript {
@@ -25,7 +25,7 @@ apply plugin: "com.android.library"
 apply plugin: "kotlin-android"
 
 android {
-    namespace = "com.example.speedo_flutter"
+    namespace = "com.shaan.speedo_flutter"
 
     compileSdk = 36
 
