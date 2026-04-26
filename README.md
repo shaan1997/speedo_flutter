@@ -61,4 +61,4 @@ The plugin monitors data throughput on the device at regular intervals and calcu
 
 ---
 
-For a full implementation example, please refer to the [example](example/) folder.
+For a full implementation example, please refer to the [example](https://github.com/your_username/speedo_flutter/tree/main/example) folder.
